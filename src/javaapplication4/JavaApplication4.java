@@ -18,6 +18,8 @@ public class JavaApplication4 {
         int a;
         int b;
         
+        
+        
     }
     
 }
